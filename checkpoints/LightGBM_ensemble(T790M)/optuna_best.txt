@@ -1,0 +1,2 @@
+best_value=0.49392906195503483
+{'n_estimators': 2182, 'learning_rate': 0.14476666643741384, 'num_leaves': 87, 'max_depth': 12, 'min_child_samples': 19, 'subsample': 0.6725405800195956, 'colsample_bytree': 0.513514280288446, 'reg_alpha': 0.19184864828839643, 'reg_lambda': 3.149635742268521, 'min_split_gain': 0.004549451184532004}
