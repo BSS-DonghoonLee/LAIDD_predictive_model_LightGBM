@@ -1,5 +1,3 @@
-%%bash
-cat > LightGBM_Optuna.py << 'PYEOS'
 # =========================================================
 # LightGBM + Optuna (ECFP_bin) + 5-Fold Ensemble Training
 # =========================================================
