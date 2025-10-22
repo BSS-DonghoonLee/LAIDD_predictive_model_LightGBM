@@ -317,10 +317,3 @@ def main():
     plt.savefig(os.path.join(ckpt_dir, "scatter_test_ensemble.png"), dpi=200)
 
     print(f"\nArtifacts saved to: {os.path.abspath(ckpt_dir)}")
-
-# --------------------------
-# Entrypoint
-# --------------------------
-if __name__ == "__main__":
-    main()
-PYEOS
